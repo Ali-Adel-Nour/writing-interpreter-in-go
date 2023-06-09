@@ -1,2 +1,2 @@
 # writing-interpreter-in-go
-Following book Writing Interpreter In Go
+Following Book Writing Interpreter In Go
